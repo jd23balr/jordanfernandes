@@ -1,1 +1,1 @@
-Hello, I am Jordan and this is just an initil readme file.
+Hello, I am Jordan and this is just an initial readme file.
